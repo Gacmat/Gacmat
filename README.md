@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gacmat
 - 👀 I’m interested in everything... books, movies, games - fantasy and sci-fi mostly - Yes, i'am geek.
-- 🌱 I’m currently learning JS Electron, React
+- 🌱 I’m currently learning 3D Graphics, C++, Java, React, JS
 - 💞️ I’m actually not looking to collaborate 
 - 📫 How to reach me: gacmat07@gmail.com
 
